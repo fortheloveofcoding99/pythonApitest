@@ -2,7 +2,6 @@ import requests
 import json
 import jsonpath
 # Api url
-
 url = "https://reqres.in/api/users"
 
 # read input json file
